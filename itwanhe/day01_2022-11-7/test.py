@@ -1,16 +1,15 @@
 # 单行注释
-
-
-print("Hello World!")
 """
 多行注释——不推荐使用
 """
+print("Hello World!")
 print("""
-多行
-字符
-串
+键盘敲烂
+月薪过万
+学IT就来万和
 """)
 a = "123"
+a = 12
 print(a)
 # 字符串转换为基础类型——转化内容必须有效
 print(int(a))

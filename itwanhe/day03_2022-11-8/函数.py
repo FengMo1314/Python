@@ -1,3 +1,9 @@
+def f():
+    print("这是一个函数")
+
+
+f()
+
 money: float = 5000000
 
 
