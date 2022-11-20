@@ -1,0 +1,17 @@
+数据集    :   类型  :	输入  :	输出   : 	生成文本平均长度
+
+WikiTableT:	SISO	数据表格	维基百科文本	115.9
+
+ROTOWIRE  : SISO	篮球比赛数据表	篮球比赛的摘要文档	337
+
+Advertising:Text Generation	SISO :	商品的属性-值对 : 商品的广告描述文本	110.2
+
+TaoDescribe :SISO  :产品的标题 :用户类别 :	产品的文本描述	 : 90.2
+
+MMSS : MISO	句子和图片	标题文本	8.3
+
+CEPSUM :	MISO  :	商品信息 :	商品描述文本 : 79
+
+MSMO  : 	MIMO  :	文档和图片集 : 文本摘要和一张图片摘要 : 70
+
+-1
